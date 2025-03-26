@@ -1,4 +1,5 @@
 import json
+import streamlit as st
 
 # File to store the library data
 LIBRARY_FILE = "library.json"
